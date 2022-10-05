@@ -1,0 +1,9 @@
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Negocio\bin\Debug\Negocio.dll
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Negocio\bin\Debug\Negocio.pdb
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Negocio\bin\Debug\Dominio.dll
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Negocio\bin\Debug\Dominio.pdb
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Negocio\obj\Debug\Negocio.dll
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Negocio\obj\Debug\Negocio.pdb

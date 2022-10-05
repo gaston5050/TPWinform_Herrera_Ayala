@@ -1,0 +1,6 @@
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Dominio\bin\Debug\Dominio.dll
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Dominio\bin\Debug\Dominio.pdb
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Dominio\obj\Debug\Dominio.dll
+C:\Users\gastona\Desktop\Programacion3\TPWinForms_Ayala_Herrera\Dominio\obj\Debug\Dominio.pdb
